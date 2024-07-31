@@ -17,4 +17,6 @@ jobs:
           TYPE: DAY
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           GIST_ID: ${{ secrets.GIST_ID }}
-          RECORDS: "0 * * * 0,6 _ WEEKEND | 0 0 10 * * _ PAYDAY | 2022-10-22 _ INIT DATE-BOX | 0 * 28 12 * _ MY BIRTHDAY"
+          RECORDS:  2024-08-24 _ SQLD 시험
+                    2024-09-10 _ 정처기 실기 원서접수
+                    2024-10-19 _ 정처기 실기 시험
